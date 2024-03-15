@@ -1,12 +1,12 @@
 {
     "pack": {
-        "pack_format": 18,
+        "pack_format": 15,
         "supported_formats": {
-            "min_inclusive": 18,
-            "max_inclusive": 22
+            "min_inclusive": 15,
+            "max_inclusive": 29
         },
 
-    "description": "§cCra§6fti§eng C§2lot§bh 1.§920.§d2-1§5.2§40.4"
+    "description": "§cCra§6fti§eng C§2lot§bh - B§9y Na§dnam§5iPi§4zza" 
   }
 }
 
