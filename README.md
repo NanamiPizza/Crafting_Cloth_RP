@@ -1,3 +1,5 @@
+# THIS REPO DOES NOT GET UPDATED. IT IS JUST FOR REPORTING ISSUES.
+
 # A Nice Small Touch To A Block You Use Probably More Than Anything!
 
 This is a small resource pack that adds a little cloth on top of your Crafting Table. That's it!
